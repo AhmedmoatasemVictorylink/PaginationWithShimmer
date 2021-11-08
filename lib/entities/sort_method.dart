@@ -1,0 +1,2 @@
+
+enum SortMethod { releaseDate, popularity }
